@@ -1,4 +1,4 @@
-# © 2024 CtrlAltWiz
+# Made in 2024 by CtrlAltWiz
 
 import pygame
 from pygame.locals import *
