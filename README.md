@@ -59,5 +59,5 @@ A Wigner crystal is a phase of matter that forms when electrons or other charged
 
 ### Contributing
 
-**Feel free to fork the repository and submit pull requests if you'd like to contribute or extend the functionality.**
+Feel free to fork the repository and submit pull requests if you'd like to contribute or extend the functionality!
     
